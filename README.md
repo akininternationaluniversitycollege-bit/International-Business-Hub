@@ -18,5 +18,5 @@ This project provides a **Python SDK** to interact with **MTN MoMo Disbursement 
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/International-Business-Hub.git
+git clone https://github.com/akininternationaluniversitycollege/International-Business-Hub.git
 cd International-Business-Hub
